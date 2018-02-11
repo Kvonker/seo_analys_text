@@ -1,5 +1,6 @@
 language: python
 python:
+rvm:
   - "3.6"
 
 script: python seo_analys_text/main.py
