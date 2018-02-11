@@ -1,4 +1,4 @@
-print('Hello, user!')
+from functions import *
 
-mas = [elem for elem in range(10)]
-print(mas)
+if __name__ = "__main__":
+  pass
