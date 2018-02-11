@@ -1,4 +1,4 @@
-Программа для работы с текстовым файлом
+Программа для работы с текстовым файлом [![Build Status](https://travis-ci.org/Kvonker/seo_analys_text.svg?branch=master)](https://travis-ci.org/Kvonker/seo_analys_text)
 ======================================
 
 Входные данные:
