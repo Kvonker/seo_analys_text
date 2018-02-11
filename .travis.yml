@@ -1,5 +1,3 @@
 language: python
-python:
-- "3.6"
 
 script: python seo_analys_text/main.py
